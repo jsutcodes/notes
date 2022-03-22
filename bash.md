@@ -1,5 +1,6 @@
 
 # Bash Cheatsheet
+https://devhints.io/bash
 
 ### cool editing tricks
 `ENV=test-env-value`
